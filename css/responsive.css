@@ -1,0 +1,40 @@
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+  html {
+    font-size: 55% !important;
+  }
+  #header {
+    max-height: 80vh !important;
+    background-position-y: -110px !important;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  html {
+    font-size: 45% !important;
+  }
+  #header {
+    max-height: 58vh !important;
+    background-position-y: -120px !important;
+  }
+}
+
+@media only screen and (min-width: 577px) and (max-width: 768px) {
+  html {
+    font-size: 35% !important;
+  }
+  #header {
+    max-height: 68vh !important;
+    background-position-y: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  html {
+    font-size: 30% !important;
+  }
+  #header {
+    max-height: 68vh !important;
+    background-position-y: 0px !important;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
